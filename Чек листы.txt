@@ -3,3 +3,5 @@ Smoke check list - https://docs.google.com/spreadsheets/d/1W-hzFYchpC4jPBho3QJfU
 Чек лист регресии - https://docs.google.com/spreadsheets/d/1nAcZTNIcDarmDtd2kn_Emb_3VtSjMpQ8FMJxyRNEnBE/edit?gid=0#gid=0
 
 End2end - https://docs.google.com/spreadsheets/d/1oUkdVRxXTHu5Rmh8REaN-ILe7y3f3Fah9EY-lpmYbsM/edit?gid=0#gid=0
+
+Чек лист особенностей мобильного приложения https://docs.google.com/spreadsheets/d/1n4jApgv_pjsl8Tm2dtF-v5NNCREX7uflDuso2uLsxK4/edit?gid=0#gid=0
